@@ -1,0 +1,15 @@
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/Main.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/GlobalSystem.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/AlertView.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/CellFactory.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/IThermoObservable.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/CellMenuView.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/DataSaver.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/TargetHeatingMode.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/IHeatingModeStrategy.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/IThermoObserver.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/ManualHeatingMode.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/ThermoView.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/ExternalTemperatureParser.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/Cell.java
+/home/parallels/Desktop/Maven_HELBThermo/myproject/src/main/java/com/example/HeatingMode.java
